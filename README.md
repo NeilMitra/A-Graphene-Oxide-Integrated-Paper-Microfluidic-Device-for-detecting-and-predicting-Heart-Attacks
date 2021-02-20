@@ -13,7 +13,7 @@
 
 ### Sample Training Image (102.4 ng/5ul sample):
 
-
+![Training_Image_Sample](https://user-images.githubusercontent.com/49591585/108605531-9359a300-7382-11eb-89b4-b44ce294afb5.jpg)
 
 ### Sample Testing Image (102.4 ng/5ul sample):
 
