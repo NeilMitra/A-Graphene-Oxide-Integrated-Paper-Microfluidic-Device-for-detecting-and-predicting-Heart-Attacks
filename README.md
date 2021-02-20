@@ -11,11 +11,11 @@
 4. Add testing images for concentrations by uploading them into the "test" section
 5. Run final block of code
 
-### Sample Training Image:
+### Sample Training Image (102.4 ng/5ul sample):
 
 
 
-### Sample Testing Image:
+### Sample Testing Image (102.4 ng/5ul sample):
 
 
 
