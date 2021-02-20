@@ -17,7 +17,7 @@
 
 ### Sample Testing Image (102.4 ng/5ul sample):
 
-
+![Testing_Image_Sample](https://user-images.githubusercontent.com/49591585/108605572-d582e480-7382-11eb-82b7-4a24bf641384.jpg)
 
 Full US Patent Filed
 Mitra, N. (2020). U.S. Utility Patent No. US 16918109. Washington, DC: U.S. Patent and Trademark Office.
